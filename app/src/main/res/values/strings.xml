@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView_Java</string>
+    <string name="country_name">Enter Country Name</string>
+    <string-array name="countries">
+        <item>Australia</item>
+        <item>America</item>
+        <item>Bangkok</item>
+        <item>Brazil</item>
+        <item>India</item>
+        <item>Indonasia</item>
+    </string-array>
+</resources>
